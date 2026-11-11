@@ -60,5 +60,6 @@ This project is an end-to-end **Business Intelligence (BI) dashboard** built in 
 ---
 
 ## 📬 Contact
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **Portfolio / Email:** [Your Email Address]
+LinkedIn: Kumud Patkar
+Portfolio: kumud-portfolio-rho.vercel.app
+GitHub: kumudpatkar
